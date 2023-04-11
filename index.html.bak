@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous">
+  </head>
+  <body>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="fix.html">How to fix my golf cart</a></li>
+      <li><a href="parts.html">Parts for my golf cart</a></li>
+      <!--<li><a href="news.asp">What golf cart is right for me?</a></li>!-->
+    </ul>
+    <div class="container">
+      <h1 class="intro">Welcome to my site about golf carts</h1>
+      <h2>About Golf Carts </h2>
+      <a href="https://en.wikipedia.org/wiki/Golf_cart" target="_blank"> </a>
+      <div><a href="https://en.wikipedia.org/wiki/Golf_cart" target="_blank"> </a>
+        <div class="text-center"><a href="https://en.wikipedia.org/wiki/Golf_cart"
+            target="_blank">
+            <p><img src="file:///C:/Users/Joech/OneDrive/Documents/GitHub/golf-carts2/ThreeGolfCarts.jpg"
+                class="rounded img-fluid" alt="Three Golf Carts"></p>
+          </a></div>
+        <div class="text-wrap">
+          <p class="fw-semibold text-center">A golf cart (alternatively known as
+            a golf buggy or golf car[a]) is a small motorized vehicle designed
+            originally to carry two golfers and their golf clubs around a golf
+            course with less effort than walking. Over time, variants were
+            introduced that were capable of carrying more passengers, had
+            additional utility features, or were certified as a street legal
+            low-speed vehicle.</p>
+          <p class="fw-semibold text-center">A traditional golf cart, capable of
+            carrying two golfers and their clubs, is generally around 4 feet
+            (1.2 m) wide, 8 feet (2.4 m) long and 6 feet (1.8 m) high, weighing
+            between 900 to 1,000 pounds (410 to 450 kg) and capable of speeds up
+            to about 15 miles per hour (24 km/h).[b] The price of a golf cart
+            can range anywhere from under US$1,000 to well over US$20,000 per
+            cart, depending on how it is equipped.</p>
+          <p class="fw-semibold text-center">Reportedly, the first use of a
+            motorized cart on a golf course was by JK Wadley of Texarkana, who
+            saw a three-wheeled electric cart being used in Los Angeles to
+            transport senior citizens to a grocery store. Later, he purchased a
+            cart and found that it worked poorly on a golf course.[2] The first
+            electric golf cart was custom-made in 1932, but did not gain
+            widespread acceptance.[3] In the 1930s until the 1950s the most
+            widespread use of golf carts was for those with disabilities who
+            could not walk far.[4] By the mid 1950s the golf cart had gained
+            wide acceptance with US golfers.[5]</p>
+          <div class="text-danger">
+            <h3 class="fs-5">By Joe Ciavarella</h3>
+          </div>
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
